@@ -37,7 +37,7 @@ cd typescript-sandbox
 npm install
 ```
 
-# Where to write code
+# Where to write the code
 
 Open the project with your code editor.
 
@@ -47,7 +47,7 @@ For Visual Studio Code:
 
 Once you opened the project you can edit the code in `src/index.ts` file.
 
-# How to run my code
+# How to run the code
 
 For Visual Studio Code:
 1. From the menu on the top go to `Terminal` -> `New Terminal`.
